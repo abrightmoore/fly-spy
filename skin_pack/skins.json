@@ -1,0 +1,12 @@
+{
+  "skins": [
+    {
+      "localization_name": "FlySpy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TWFFlySpyStealthDark.png",
+      "type": "paid"
+    }
+  ],
+  "serialize_name": "TWFFlySpy",
+  "localization_name": "TWFFlySpy"
+}
